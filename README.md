@@ -1,6 +1,8 @@
 ### Hi there 👋
 <h2> Hi, I'm Jonas Khanh! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
 [![Linkedin: Nguyen Quoc Khanh](https://img.shields.io/badge/-jonasKhanh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nguyen-quoc-kh%C3%A1nh-74a04113b/)](https://www.linkedin.com/in/nguyen-quoc-kh%C3%A1nh-74a04113b/)
+
 [![GitHub JKhanh](https://img.shields.io/github/followers/JKhanh?label=follow&style=social)](https://github.com/JKhanh)
 
 ### A little more about me
@@ -23,7 +25,7 @@ class JKhanh(
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JKhanh&langs_count=10&theme=tokyonight&layout=compact" alt="JKhanh :: Top Langs" /></p>
 
-[![JKhanh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aatalata)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">[![JKhanh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aatalata)](https://github.com/anuraghazra/github-readme-stats)</p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
