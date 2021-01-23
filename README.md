@@ -25,7 +25,7 @@ class JKhanh(
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JKhanh&langs_count=10&theme=tokyonight&layout=compact" alt="JKhanh :: Top Langs" /></p>
 
-<p align="center">[![JKhanh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aatalata)](https://github.com/anuraghazra/github-readme-stats)</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=aatalata" alt="JKhanh :: WakaTime" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
