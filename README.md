@@ -10,8 +10,8 @@
 ```kotlin
 class JKhanh(
   val gender: Male,
-  val code = listOf(Kotlin, Java, JavaScript, Python),
-  val architecture = listOf(cleanArchitecture, MVVM),
+  var code = listOf(Kotlin, Java, JavaScript, Python),
+  var architecture = listOf(cleanArchitecture, MVVM),
 )
 ```
 
