@@ -8,9 +8,9 @@
 ### A little more about me
 
 ```kotlin
-class JKhanh(
+data class JKhanh(
   val gender: Male,
-  var code = listOf(Kotlin, Java, JavaScript, Python),
+  var code = listOf(Kotlin, Java, Swift, Python),
   var architecture = listOf(cleanArchitecture, MVVM),
 )
 ```
