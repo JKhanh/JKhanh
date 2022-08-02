@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h2> Hi, I'm Jonas Khanh! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-[![Linkedin: Nguyen Quoc Khanh](https://img.shields.io/badge/-jonasKhanh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nguyen-quoc-kh%C3%A1nh-74a04113b/)](https://www.linkedin.com/in/nguyen-quoc-kh%C3%A1nh-74a04113b/)
+[![Linkedin: Nguyen Quoc Khanh](https://img.shields.io/badge/-jonasKhanh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nguyen-quoc-kh%C3%A1nh-74a04113b/)](https://www.linkedin.com/in/nguyenquockhanh99/)
 
 [![GitHub JKhanh](https://img.shields.io/github/followers/JKhanh?label=follow&style=social)](https://github.com/JKhanh)
 
